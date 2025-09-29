@@ -178,7 +178,7 @@ Configuration:
 
 if __name__ == "__main__":
     # Configuration
-    IMAGE_PATH = "Batman.jpg"
+    IMAGE_PATH = "Images/Batman.jpg"
     TILE_FOLDER = "extracted_images"
     
     # Validate paths
