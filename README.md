@@ -84,6 +84,7 @@ python cache_builder.py
 ## File Structure
 
 ```
+├── Images                      # Sample Images
 ├── app.py                      # Gradio web interface (deployment-ready)
 ├── main.py                     # Complete CLI mosaic generator
 ├── cache_builder.py            # Tile cache builder with rotation variants
